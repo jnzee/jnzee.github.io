@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: courier;
+  font-size: 14px;
+  color:  #e6e6ff;
+  }
+
+ div {
+  height: 500px;
+  width: 600px;
+  margin: 2px auto 10px auto;
+}
+
+p {
+  height: 50%;
+  width: 100%;
+  padding: 20px;
+  margin: 10px auto 10px auto;
+  text-align: left;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.box {
+  width: 50%;
+}

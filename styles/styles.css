@@ -1,4 +1,9 @@
-body {
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*body {
   text-align: center;
   font-family: courier;
   font-size: 14px;
@@ -25,4 +30,4 @@ p {
 
 .box {
   width: 50%;
-}
+}*/
